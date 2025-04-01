@@ -1,4 +1,4 @@
-2025-04-01 13:21:55 UTC
+2025-04-01 14:03:02 UTC
 Windows-10-10.0.26100
 Ren'Py 8.3.7.25031702
 
@@ -40,5 +40,5 @@ Vendor: "b'NVIDIA Corporation'"
 Renderer: b'NVIDIA GeForce RTX 4060/PCIe/SSE2'
 Version: b'4.6.0 NVIDIA 572.83'
 Display Info: None
-Screen sizes: virtual=(1920, 1080) physical=(2187, 1230) drawable=(2187, 1230)
+Screen sizes: virtual=(1920, 1080) physical=(2184, 1228) drawable=(2184, 1228)
 Maximum texture size: 4096x4096
