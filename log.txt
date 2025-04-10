@@ -1,21 +1,22 @@
-2025-04-10 14:46:38 UTC
+2025-04-10 15:58:44 UTC
 Windows-10-10.0.26100
 Ren'Py 8.3.7.25031702
 
-Early init took 0.05s
-Loading error handling took 0.04s
-Loading script took 0.12s
-Loading save slot metadata took 0.17s
+Early init took 0.04s
+Loading error handling took 0.02s
+Loading script took 0.16s
+Loading save slot metadata took 0.03s
 Loading persistent took 0.00s
-Running init code took 0.06s
+Running init code took 0.03s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.12s
+Reloading save slot metadata took 0.02s
 Index archives took 0.00s
-Dump and make backups took 0.04s
+Backing up script files to 'C:\\Users\\admin\\AppData\\Roaming/RenPy/backups\\vn':
+Dump and make backups took 0.03s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.02s
+Initial gc took 0.03s
 DPI scale factor: 1.750000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
@@ -23,14 +24,14 @@ Creating interface object took 0.18s
 Cleaning stores took 0.00s
 Init translation took 0.00s
 Build styles took 0.00s
-Load screen analysis took 0.02s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
 Prepare screens took 0.04s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.02s
 Running _start took 0.00s
-Interface start took 0.19s
+Interface start took 0.18s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 3840, 2160)
@@ -40,12 +41,9 @@ Vendor: "b'NVIDIA Corporation'"
 Renderer: b'NVIDIA GeForce RTX 4060/PCIe/SSE2'
 Version: b'4.6.0 NVIDIA 572.83'
 Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(3840, 2036) drawable=(3840, 2036)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(3840, 2036) drawable=(3840, 2036)
+Maximum texture size: 4096x4096
 Screen sizes: virtual=(1920, 1080) physical=(2177, 1225) drawable=(2177, 1225)
 Maximum texture size: 4096x4096
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Load screen analysis took 0.02s
-Analyze screens took 0.00s
-Prepare screens took 0.00s
-Running _start took 0.00s
